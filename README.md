@@ -1,13 +1,18 @@
 <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width=30% height=30%/> 
 
+
 # product-catalog-with-laravel-8-crud-api
 
 This is a simple CRUD and REST API project created with Laravel 8 (Product Catalog Series)
+
+<br>
 
 ## Features
 
 - CRUD (create, read, update, and delete).
 - Rest API.
+
+<br>
 
 ## Rest API
 
